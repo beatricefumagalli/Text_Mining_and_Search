@@ -5,18 +5,18 @@
 -- Files --
    All'interno dell'archivio "Text_mining_Fumagalli_Porcino.zip" sono presenti i seguenti file:
 	
-	- 20_newsgroups: cartella contenente il corpus di documenti utilizzati nel progetto
 	- TM_Project: file di Jupyter Notebook contenente il codice del progetto
 	- README
 	- Report
 	- 20_newsgroups_slides
 
 -- Dataset --
-   Il dataset utilizzato Ë "20_newsgroupsî, una raccolta di 20.000 documenti, suddivisi in modo uniforme 
+   Il download del dataset si trova al seguente link: http://qwone.com/~jason/20Newsgroups/
+   Il dataset utilizzato √® "20_newsgroups‚Äù, una raccolta di 20.000 documenti, suddivisi in modo uniforme 
    in 20 diversi newsgroups. 
 
 -- Codice e Librerie --
-   Il codice del progetto Ë stato implementato interamente in Python (Anaconda), le librerie utilizzate
+   Il codice del progetto √® stato implementato interamente in Python (Anaconda), le librerie utilizzate
    all'interno del codice sono le seguenti:
 
 	- pandas
@@ -37,7 +37,7 @@
 
  - Prerequisiti -
 
-   Per eseguire il codice all'interno del file "TM_Project.ipynb" Ë necessario aver installato:
+   Per eseguire il codice all'interno del file "TM_Project.ipynb" √® necessario aver installato:
 	
 	- Anaconda 5.2 (Python 3.6 version) 
 
@@ -47,14 +47,14 @@
 
  - Esecuzione -
    Aprire il file "TM_Project.ipynb" con Jupyter Notebook ed eseguire tutte le celle di codice utilizzando il
-   men˘: Cell -> Run All.
+   men√π: Cell -> Run All.
    Le eventuali librerie non presenti nell'ambiente corrente di Python verranno installate automaticamente.
 
    - Libreria NLTK -
-   Se Ë la prima volta che si utilizza questa libreria sar‡ necessario rimuovere il commento nel secondo 
-   blocco di codice alla riga n∞2 ( nltk.download() ), dopo aver eseguito il comando "Run All" si aprir‡
+   Se √® la prima volta che si utilizza questa libreria sar√† necessario rimuovere il commento nel secondo 
+   blocco di codice alla riga n¬∞2 ( nltk.download() ), dopo aver eseguito il comando "Run All" si aprir√†
    una finestra in cui verranno mostrate le collections disponibili all'interno della libreria, cliccare 
-   su "Download", una volta finito il download si potr‡ chiudere la finestra ed eseguire i blocchi 
+   su "Download", una volta finito il download si potr√† chiudere la finestra ed eseguire i blocchi 
    successivi di codice. 
 
 
