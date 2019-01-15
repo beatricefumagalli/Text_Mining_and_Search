@@ -55,11 +55,4 @@
    blocco di codice alla riga n°2 ( nltk.download() ), dopo aver eseguito il comando "Run All" si aprirà
    una finestra in cui verranno mostrate le collections disponibili all'interno della libreria, cliccare 
    su "Download", una volta finito il download si potrà chiudere la finestra ed eseguire i blocchi 
-   successivi di codice. 
-
-
-
-
-
-
-
+   successivi di codice.
