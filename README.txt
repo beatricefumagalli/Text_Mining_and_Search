@@ -1,4 +1,4 @@
---- Progetto finale di Text Mining di Beatrice Fumagalli e Matteo Porcino --- 
+--- Progetto finale di Text Mining and Search di Beatrice Fumagalli e Matteo Porcino --- 
 --    The 20 Newsgroups dataset     --
 -----    Text Classification     -----
   
